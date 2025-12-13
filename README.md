@@ -23,4 +23,6 @@
 
 - [ ] **разработать методику.** может папки с заданиями подписывать? условно папка Е13 и А13
 
-<img width="671" height="739" alt="изображение" src="https://github.com/user-attachments/assets/ceb00d6d-74bb-4b3e-9ce2-3baaabcbce38" />
+<img width="671" height="739" alt="мемасик нумер 1" src="https://github.com/user-attachments/assets/ceb00d6d-74bb-4b3e-9ce2-3baaabcbce38" />
+
+<img width="537" height="756" alt="мемасик нумер 2" src="https://github.com/user-attachments/assets/29a7962a-83dc-4704-a47a-9132981544b9" />
